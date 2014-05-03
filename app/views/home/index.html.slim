@@ -1,0 +1,6 @@
+.todo
+  h1
+    | {{title | uppercase}}
+  ul
+    li v-repeat='tasks' v-on='click: complete = !complete' class="{{complete ? 'is-complete' : ''}}"
+      | {{content}}
