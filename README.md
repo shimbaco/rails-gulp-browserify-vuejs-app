@@ -40,4 +40,4 @@ http://localhost:3000 にアクセスすると、
 
 GulpとBrowserify周りの設定はほとんど
 [Gulp + Browserify: The Everything Post | Viget](http://viget.com/extend/gulp-browserify-starter-faq)
-というブログ記事から流用しています。
+というブログ記事から拝借しています。
